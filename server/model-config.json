@@ -31,5 +31,13 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "A": {
+    "dataSource": "db",
+    "public": true
+  },
+  "B": {
+    "dataSource": "db",
+    "public": true
   }
 }
